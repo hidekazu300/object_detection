@@ -1,0 +1,170 @@
+item {
+  id: 1
+  name: '1w'
+}
+
+item {
+  id: 2
+  name: '2w'
+}
+
+item {
+  id: 3
+  name: '3w'
+}
+
+item {
+  id: 4
+  name: '4w'
+}
+
+item {
+  id: 5
+  name: '5w'
+}
+
+item {
+  id: 6
+  name: '6w'
+}
+
+item {
+  id: 7
+  name: '7w'
+}
+
+item {
+  id: 8
+  name: '8w'
+}
+
+item {
+  id: 9
+  name: '9w'
+}
+
+item {
+  id: 10
+  name: '1p'
+}
+
+item {
+  id: 11
+  name: '2p'
+}
+
+item {
+  id: 12
+  name: '3p'
+}
+
+item {
+  id: 13
+  name: '4p'
+}
+
+item {
+  id: 14
+  name: '5p'
+}
+
+item {
+  id: 15
+  name: '6p'
+}
+
+item {
+  id: 16
+  name: '7p'
+}
+
+item {
+  id: 17
+  name: '8p'
+}
+
+item {
+  id: 18
+  name: '9p'
+}
+
+item {
+  id: 19
+  name: '1s'
+}
+
+item {
+  id: 20
+  name: '2s'
+}
+
+item {
+  id: 21
+  name: '3s'
+}
+
+item {
+  id: 22
+  name: '4s'
+}
+
+item {
+  id: 23
+  name: '5s'
+}
+
+item {
+  id: 24
+  name: '6s'
+}
+
+item {
+  id: 25
+  name: '7s'
+}
+
+item {
+  id: 26
+  name: '8s'
+}
+
+item {
+  id: 27
+  name: '9s'
+}
+
+item {
+  id: 28
+  name: 'east'
+}
+
+item {
+  id: 29
+  name: 'south'
+}
+
+item {
+  id: 30
+  name: 'west'
+}
+
+item {
+  id: 31
+  name: 'north'
+}
+
+item {
+  id: 32
+  name: 'white'
+}
+
+item {
+  id: 33
+  name: 'hatsu'
+}
+
+item {
+  id: 34
+  name: 'tyun'
+}
+
